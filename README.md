@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#296](https://github.com/DenverCoder1/readme-typing-svg/pull/296) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#1108](https://github.com/DenverCoder1/custom-icon-badges/issues/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-3. 💪 Opened PR [#1108](https://github.com/DenverCoder1/custom-icon-badges/pull/1108) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
-4. 💪 Opened PR [#7350](https://github.com/refined-github/refined-github/pull/7350) in [refined-github/refined-github](https://github.com/refined-github/refined-github)
-5. 🗣 Commented on [#295](https://github.com/DenverCoder1/readme-typing-svg/issues/295) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+1. 🎉 Merged PR [#21](https://github.com/sam-hansen/snap-monorepo/pull/21) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+2. 🎉 Merged PR [#22](https://github.com/sam-hansen/snap-monorepo/pull/22) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+3. 🎉 Merged PR [#55](https://github.com/sam-hansen/portfolio/pull/55) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+4. 🎉 Merged PR [#54](https://github.com/sam-hansen/portfolio/pull/54) in [sam-hansen/portfolio](https://github.com/sam-hansen/portfolio)
+5. 🎉 Merged PR [#53](https://github.com/sam-hansen/first-contributions/pull/53) in [sam-hansen/first-contributions](https://github.com/sam-hansen/first-contributions)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
