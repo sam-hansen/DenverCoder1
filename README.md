@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#11](https://github.com/sam-hansen/coolhue/pull/11) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-2. 🎉 Merged PR [#10](https://github.com/sam-hansen/coolhue/pull/10) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-3. 🎉 Merged PR [#5](https://github.com/sam-hansen/coolhue/pull/5) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-4. 🎉 Merged PR [#4](https://github.com/sam-hansen/coolhue/pull/4) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
-5. 🎉 Merged PR [#3](https://github.com/sam-hansen/coolhue/pull/3) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+1. 🎉 Merged PR [#292](https://github.com/sam-hansen/RSSHub/pull/292) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+2. 🎉 Merged PR [#7](https://github.com/sam-hansen/RSS/pull/7) in [sam-hansen/RSS](https://github.com/sam-hansen/RSS)
+3. 🎉 Merged PR [#11](https://github.com/sam-hansen/coolhue/pull/11) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+4. 🎉 Merged PR [#10](https://github.com/sam-hansen/coolhue/pull/10) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
+5. 🎉 Merged PR [#5](https://github.com/sam-hansen/coolhue/pull/5) in [sam-hansen/coolhue](https://github.com/sam-hansen/coolhue)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
