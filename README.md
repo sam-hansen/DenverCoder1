@@ -282,11 +282,11 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/sam-hansen/choosealicense.com/pull/3) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-2. 🎉 Merged PR [#2](https://github.com/sam-hansen/choosealicense.com/pull/2) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
-3. 🎉 Merged PR [#325](https://github.com/sam-hansen/RSSHub/pull/325) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-4. 🎉 Merged PR [#332](https://github.com/sam-hansen/RSSHub/pull/332) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
-5. 🎉 Merged PR [#330](https://github.com/sam-hansen/RSSHub/pull/330) in [sam-hansen/RSSHub](https://github.com/sam-hansen/RSSHub)
+1. 🎉 Merged PR [#4](https://github.com/sam-hansen/choosealicense.com/pull/4) in [sam-hansen/choosealicense.com](https://github.com/sam-hansen/choosealicense.com)
+2. 🎉 Merged PR [#26](https://github.com/sam-hansen/snap-monorepo/pull/26) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+3. 🎉 Merged PR [#1](https://github.com/sam-hansen/developer-setup/pull/1) in [sam-hansen/developer-setup](https://github.com/sam-hansen/developer-setup)
+4. 🎉 Merged PR [#24](https://github.com/sam-hansen/snap-monorepo/pull/24) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
+5. 🎉 Merged PR [#25](https://github.com/sam-hansen/snap-monorepo/pull/25) in [sam-hansen/snap-monorepo](https://github.com/sam-hansen/snap-monorepo)
 <!--END_SECTION:activity-->
 
   <h3>🌟 Sponsors</h3>
